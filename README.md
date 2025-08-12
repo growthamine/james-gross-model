@@ -2,7 +2,7 @@
 
 Het emotieregulatieproces van James Gross beschrijft hoe we onze emoties kunnen beïnvloeden, vanaf het moment voordat ze opkomen tot nadat ze zich hebben gemanifesteerd. Het model biedt vijf ingrijpmomenten waarop je bewust kunt kiezen hoe je met emoties omgaat. Door deze strategieën bewust toe te passen, kun je je emotionele reacties beter sturen, effectiever handelen en veerkracht opbouwen.
 
-![Emotieregulatiemodel](./images/james_gross_model.png)
+![Emotieregulatiemodel](./james_gross_model.png)
 
 ## 1. Situation selection
 
